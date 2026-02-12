@@ -43,6 +43,12 @@ I specialize in modernization initiatives that improve reliability, streamline o
  
 ---
 
+## Contact
+
+Connect with me on LinkedIn to discuss technology leadership, product strategy, and engineering management initiatives.
+
+---
+
 ## About This Profile
 
 This GitHub profile highlights professional leadership experience across technology strategy, engineering management, and enterprise modernization initiatives.
