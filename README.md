@@ -38,8 +38,6 @@ I specialize in modernization initiatives that improve reliability, streamline o
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesse-lassiter/)
 - 🌐 [Professional Portfolio (Google Sites)](https://sites.google.com/view/jesselassiter)
-- 🧭 [About.me](https://about.me/jesselassiter)
-- 📘 [Facebook](https://www.facebook.com/jesselassiter)
  
 ---
 
