@@ -1,12 +1,20 @@
 # Jesse Lassiter
 
-### Technology Leader – IT | Product | Engineering
+### Technology Leader | IT Strategy • Product Leadership • Engineering Management • Modernization • Reliability • Enterprise Platforms
 
 Technology leader with 13+ years of experience across IT operations, enterprise platform delivery, engineering management, and product leadership.
 
 I focus on modernization initiatives that improve reliability, streamline operations, reduce operational overhead, and enable scalable, secure enterprise platforms.
 
 Professional Overview: https://jesselassiter.com
+
+---
+
+## Leadership Focus
+
+I work at the intersection of technology strategy, engineering management, and product leadership.
+
+My work centers on helping organizations modernize enterprise platforms, improve reliability, and build high-performing engineering teams.
 
 ---
 
@@ -38,8 +46,11 @@ Professional Overview: https://jesselassiter.com
 
 ## Professional Links
 
-- 🌐 [Website](https://jesselassiter.com/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jesse-lassiter/)
+🌐 Website  
+https://jesselassiter.com
+
+🔗 LinkedIn  
+https://linkedin.com/in/jesse-lassiter
  
 ---
 
@@ -51,7 +62,15 @@ Connect with me on LinkedIn to discuss technology leadership, product strategy, 
 
 ## About This Profile
 
-This GitHub profile highlights professional leadership experience across technology strategy, engineering management, and enterprise modernization initiatives.
+This GitHub profile highlights leadership frameworks and modernization approaches used in enterprise technology organizations.
 
-For a full professional overview, visit my portfolio on [Google Sites](https://sites.google.com/view/jesselassiter)
- and my public profile on [Notion](https://www.notion.so/Jesse-Lassiter-3047f1dd357980768d18d7832fb5827d).
+Topics include:
+
+• Engineering leadership
+• Platform modernization
+• Reliability and operational excellence
+• Product and platform strategy
+• Enterprise IT transformation
+
+For a full professional overview visit:
+https://jesselassiter.com
