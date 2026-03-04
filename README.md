@@ -2,9 +2,11 @@
 
 ### Technology Leader – IT | Product | Engineering
 
-Senior technology leader with 13+ years of experience spanning IT operations, enterprise platform delivery, engineering management, and product leadership.
+Technology leader with 13+ years of experience across IT operations, enterprise platform delivery, engineering management, and product leadership.
 
-I specialize in modernization initiatives that improve reliability, streamline operations, reduce operational overhead, and enable scalable, secure growth across complex enterprise environments.
+I focus on modernization initiatives that improve reliability, streamline operations, reduce operational overhead, and enable scalable, secure enterprise platforms.
+
+Professional Overview: https://jesselassiter.com
 
 ---
 
